@@ -29,4 +29,4 @@ Glossário vivo. Atualizado durante a sessão de planeamento. Termos marcados _(
 ## Infraestrutura
 
 - **Armazenamento de ficheiros** — Cloudflare R2 (documentos, fotos, imagens).
-- **Aplicação** — Node.js na Vercel, Next.js na Vercel, Postgres no Neon, login com Better Auth (ADR 0005, 0010).
+- **Aplicação** — Next.js (Node.js) na Vercel, Postgres no Neon, login com Better Auth (ADR 0005, 0010).
