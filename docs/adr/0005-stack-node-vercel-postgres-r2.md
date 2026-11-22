@@ -1,6 +1,6 @@
 # 0005 — Node.js na Vercel, Postgres gratuito, ficheiros no Cloudflare R2
 
-**Estado:** aceite em princípio (2026-11-22). Escolha Neon vs Supabase em aberto.
+**Estado:** aceite (2026-11-22). Base de dados escolhida: Neon (ver 0010).
 
 ## Decisão
 Aplicação Node.js publicada na Vercel. Dados em Postgres de plano gratuito (Neon ou Supabase). Documentos e fotos no Cloudflare R2.
