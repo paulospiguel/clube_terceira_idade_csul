@@ -16,7 +16,7 @@ Glossário vivo. Atualizado durante a sessão de planeamento. Termos marcados _(
 - **Evento** — algo com data, hora e local que aparece na Agenda (ex.: baile, passeio, aula).
 - **Agenda** — lista cronológica de Eventos futuros e passados.
 - **Publicação** — notícia ou post escrito no painel.
-- **Feed social** — publicações do Instagram/Facebook do clube, incorporadas (embed), não importadas (ADR 0003).
+- **Feed social** — publicações do Instagram/Facebook do clube, incorporadas (embed), não importadas. Facebook via Page Plugin; Instagram por posts escolhidos no painel (ADR 0003, 0011).
 - **Galeria** — fotos de Eventos.
 - **Prestação de contas** — documentos e registos de receitas/despesas publicados no site. Pública para qualquer Visitante (ADR 0007).
 
