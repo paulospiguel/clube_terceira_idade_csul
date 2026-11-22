@@ -18,7 +18,7 @@ Glossário vivo. Atualizado durante a sessão de planeamento. Termos marcados _(
 - **Publicação** — notícia ou post escrito no painel.
 - **Feed social** — publicações do Instagram/Facebook do clube, incorporadas (embed), não importadas (ADR 0003).
 - **Galeria** — fotos de Eventos.
-- **Prestação de contas** — documentos e registos de receitas/despesas publicados para os sócios. _(provisório: visibilidade por definir)_
+- **Prestação de contas** — documentos e registos de receitas/despesas publicados no site. Pública para qualquer Visitante (ADR 0007).
 
 ## Contacto
 
