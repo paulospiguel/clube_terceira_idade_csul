@@ -8,7 +8,7 @@ Glossário vivo. Atualizado durante a sessão de planeamento. Termos marcados _(
 
 - **Visitante** — qualquer pessoa que abre o site público sem iniciar sessão.
 - **Sócio** — membro do clube. Não tem conta no site (ADR 0002).
-- **Gestor** — membro do conselho/diretoria com login no painel. Publica conteúdo e gere a Agenda. _(perfis e permissões por definir)_
+- **Gestor** — membro do conselho/diretoria com login no painel. Tem um de três perfis: Administrador, Editor ou Tesoureiro (ADR 0008).
 - **Órgãos sociais** — Diretoria e Conselho, mostrados numa página própria. _(nomes exatos dos órgãos por confirmar)_
 
 ## Conteúdo
